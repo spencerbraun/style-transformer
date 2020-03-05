@@ -29,7 +29,7 @@ class Config():
     iter_F = 5
     F_pretrain_iter = 500
     log_steps = 5
-    eval_steps = 25
+    eval_steps = 100
     learned_pos_embed = True
     dropout = 0
     drop_rate_config = [(1, 0)]
