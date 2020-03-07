@@ -1,0 +1,155 @@
+Vocab size: 16140
+Multi
+Save Path: ./save/Mar07052753
+Model F pretraining......
+[iter: 10] slf_loss:31.0120, rec_loss:0.0000
+[iter: 20] slf_loss:24.8114, rec_loss:0.0000
+[iter: 30] slf_loss:24.8948, rec_loss:0.0000
+[iter: 40] slf_loss:23.7061, rec_loss:0.0000
+[iter: 50] slf_loss:24.0293, rec_loss:0.0000
+[iter: 60] slf_loss:22.8527, rec_loss:0.0000
+[iter: 70] slf_loss:23.2925, rec_loss:0.0000
+[iter: 80] slf_loss:22.7565, rec_loss:0.0000
+[iter: 90] slf_loss:22.4849, rec_loss:0.0000
+[iter: 100] slf_loss:22.0383, rec_loss:0.0000
+[iter: 110] slf_loss:21.4697, rec_loss:0.0000
+[iter: 120] slf_loss:21.8792, rec_loss:0.0000
+[iter: 130] slf_loss:21.5700, rec_loss:0.0000
+[iter: 140] slf_loss:21.2020, rec_loss:0.0000
+[iter: 150] slf_loss:21.1511, rec_loss:0.0000
+[iter: 160] slf_loss:20.5238, rec_loss:0.0000
+[iter: 170] slf_loss:20.5279, rec_loss:0.0000
+[iter: 180] slf_loss:20.5743, rec_loss:0.0000
+[iter: 190] slf_loss:19.9929, rec_loss:0.0000
+[iter: 200] slf_loss:19.3791, rec_loss:0.0000
+[iter: 210] slf_loss:19.0499, rec_loss:0.0000
+[iter: 220] slf_loss:18.9808, rec_loss:0.0000
+[iter: 230] slf_loss:17.9491, rec_loss:0.0000
+[iter: 240] slf_loss:17.8812, rec_loss:0.0000
+[iter: 250] slf_loss:17.6452, rec_loss:0.0000
+[iter: 260] slf_loss:17.1913, rec_loss:0.0000
+[iter: 270] slf_loss:16.2570, rec_loss:0.0000
+[iter: 280] slf_loss:16.1530, rec_loss:0.0000
+[iter: 290] slf_loss:15.1418, rec_loss:0.0000
+[iter: 300] slf_loss:14.7054, rec_loss:0.0000
+[iter: 310] slf_loss:14.6763, rec_loss:0.0000
+[iter: 320] slf_loss:13.9887, rec_loss:0.0000
+[iter: 330] slf_loss:13.2343, rec_loss:0.0000
+[iter: 340] slf_loss:12.9445, rec_loss:0.0000
+[iter: 350] slf_loss:12.5131, rec_loss:0.0000
+[iter: 360] slf_loss:12.0918, rec_loss:0.0000
+[iter: 370] slf_loss:10.7245, rec_loss:0.0000
+[iter: 380] slf_loss:10.0950, rec_loss:0.0000
+[iter: 390] slf_loss:10.0912, rec_loss:0.0000
+[iter: 400] slf_loss:9.7311, rec_loss:0.0000
+[iter: 410] slf_loss:9.5105, rec_loss:0.0000
+[iter: 420] slf_loss:9.0495, rec_loss:0.0000
+[iter: 430] slf_loss:8.6321, rec_loss:0.0000
+[iter: 440] slf_loss:8.2008, rec_loss:0.0000
+[iter: 450] slf_loss:8.3162, rec_loss:0.0000
+[iter: 460] slf_loss:10.8388, rec_loss:0.0000
+[iter: 470] slf_loss:8.8684, rec_loss:0.0000
+[iter: 480] slf_loss:7.8759, rec_loss:0.0000
+[iter: 490] slf_loss:6.7621, rec_loss:0.0000
+[iter: 500] slf_loss:6.5386, rec_loss:0.0000
+Training start......
+[iter 5] d_adv_loss: 3.8043  f_slf_loss: 5.8756  f_cyc_loss: 13.5367  f_adv_loss: 2.7548  temp: 1.0000  drop: 0.0000
+[iter 10] d_adv_loss: 2.6922  f_slf_loss: 5.8597  f_cyc_loss: 13.1960  f_adv_loss: 2.5546  temp: 1.0000  drop: 0.0000
+[iter 15] d_adv_loss: 2.1455  f_slf_loss: 5.8584  f_cyc_loss: 12.9043  f_adv_loss: 2.4928  temp: 1.0000  drop: 0.0000
+[iter 20] d_adv_loss: 1.8498  f_slf_loss: 5.7647  f_cyc_loss: 12.6265  f_adv_loss: 2.4320  temp: 1.0000  drop: 0.0000
+[iter 25] d_adv_loss: 1.6747  f_slf_loss: 5.6714  f_cyc_loss: 12.3789  f_adv_loss: 2.4036  temp: 1.0000  drop: 0.0000
+[iter 30] d_adv_loss: 1.5593  f_slf_loss: 5.5655  f_cyc_loss: 12.1393  f_adv_loss: 2.3878  temp: 1.0000  drop: 0.0000
+[iter 35] d_adv_loss: 1.4692  f_slf_loss: 5.4659  f_cyc_loss: 11.9091  f_adv_loss: 2.3660  temp: 1.0000  drop: 0.0000
+[iter 40] d_adv_loss: 1.3957  f_slf_loss: 5.3412  f_cyc_loss: 11.6507  f_adv_loss: 2.3289  temp: 1.0000  drop: 0.0000
+[iter 45] d_adv_loss: 1.3406  f_slf_loss: 5.2309  f_cyc_loss: 11.4223  f_adv_loss: 2.3424  temp: 1.0000  drop: 0.0000
+[iter 50] d_adv_loss: 1.2998  f_slf_loss: 5.1283  f_cyc_loss: 11.2184  f_adv_loss: 2.3272  temp: 1.0000  drop: 0.0000
+[iter 55] d_adv_loss: 1.2645  f_slf_loss: 5.0263  f_cyc_loss: 11.0149  f_adv_loss: 2.3278  temp: 1.0000  drop: 0.0000
+[iter 60] d_adv_loss: 1.2348  f_slf_loss: 4.9308  f_cyc_loss: 10.8201  f_adv_loss: 2.3142  temp: 1.0000  drop: 0.0000
+[iter 65] d_adv_loss: 1.2100  f_slf_loss: 4.8405  f_cyc_loss: 10.6364  f_adv_loss: 2.3177  temp: 1.0000  drop: 0.0000
+[iter 70] d_adv_loss: 1.1838  f_slf_loss: 4.7486  f_cyc_loss: 10.4527  f_adv_loss: 2.3112  temp: 1.0000  drop: 0.0000
+[iter 75] d_adv_loss: 1.1637  f_slf_loss: 4.6645  f_cyc_loss: 10.2958  f_adv_loss: 2.3152  temp: 1.0000  drop: 0.0000
+[iter 80] d_adv_loss: 1.1480  f_slf_loss: 4.5848  f_cyc_loss: 10.1452  f_adv_loss: 2.3083  temp: 1.0000  drop: 0.0000
+[iter 85] d_adv_loss: 1.1325  f_slf_loss: 4.5106  f_cyc_loss: 10.0073  f_adv_loss: 2.3049  temp: 1.0000  drop: 0.0000
+[iter 90] d_adv_loss: 1.1190  f_slf_loss: 4.4357  f_cyc_loss: 9.8524  f_adv_loss: 2.3103  temp: 1.0000  drop: 0.0000
+[iter 95] d_adv_loss: 1.1068  f_slf_loss: 4.3686  f_cyc_loss: 9.7147  f_adv_loss: 2.3131  temp: 1.0000  drop: 0.0000
+[iter 100] d_adv_loss: 1.0920  f_slf_loss: 4.3040  f_cyc_loss: 9.5836  f_adv_loss: 2.3228  temp: 1.0000  drop: 0.0000
+[iter 105] d_adv_loss: 0.8750  f_slf_loss: 2.9529  f_cyc_loss: 7.1996  f_adv_loss: 2.3564  temp: 1.0000  drop: 0.0000
+[iter 110] d_adv_loss: 0.8470  f_slf_loss: 2.9920  f_cyc_loss: 7.2277  f_adv_loss: 2.3713  temp: 1.0000  drop: 0.0000
+[iter 115] d_adv_loss: 0.8356  f_slf_loss: 2.9487  f_cyc_loss: 7.1099  f_adv_loss: 2.3988  temp: 1.0000  drop: 0.0000
+[iter 120] d_adv_loss: 0.8374  f_slf_loss: 2.9134  f_cyc_loss: 7.0150  f_adv_loss: 2.4221  temp: 1.0000  drop: 0.0000
+[iter 125] d_adv_loss: 0.8303  f_slf_loss: 2.8910  f_cyc_loss: 6.9460  f_adv_loss: 2.4351  temp: 1.0000  drop: 0.0000
+[iter 130] d_adv_loss: 0.8288  f_slf_loss: 2.8558  f_cyc_loss: 6.8689  f_adv_loss: 2.4810  temp: 1.0000  drop: 0.0000
+[iter 135] d_adv_loss: 0.8233  f_slf_loss: 2.8206  f_cyc_loss: 6.8148  f_adv_loss: 2.4981  temp: 1.0000  drop: 0.0000
+[iter 140] d_adv_loss: 0.8223  f_slf_loss: 2.7869  f_cyc_loss: 6.7311  f_adv_loss: 2.4849  temp: 1.0000  drop: 0.0000
+[iter 145] d_adv_loss: 0.8183  f_slf_loss: 2.7665  f_cyc_loss: 6.6905  f_adv_loss: 2.4881  temp: 1.0000  drop: 0.0000
+[iter 150] d_adv_loss: 0.8189  f_slf_loss: 2.7395  f_cyc_loss: 6.6532  f_adv_loss: 2.4978  temp: 1.0000  drop: 0.0000
+[iter 155] d_adv_loss: 0.8172  f_slf_loss: 2.7129  f_cyc_loss: 6.5918  f_adv_loss: 2.4908  temp: 1.0000  drop: 0.0000
+[iter 160] d_adv_loss: 0.8217  f_slf_loss: 2.6880  f_cyc_loss: 6.5467  f_adv_loss: 2.5002  temp: 1.0000  drop: 0.0000
+[iter 165] d_adv_loss: 0.8158  f_slf_loss: 2.6645  f_cyc_loss: 6.5185  f_adv_loss: 2.5178  temp: 1.0000  drop: 0.0000
+[iter 170] d_adv_loss: 0.8103  f_slf_loss: 2.6400  f_cyc_loss: 6.4707  f_adv_loss: 2.5336  temp: 1.0000  drop: 0.0000
+[iter 175] d_adv_loss: 0.8053  f_slf_loss: 2.6143  f_cyc_loss: 6.4207  f_adv_loss: 2.5514  temp: 1.0000  drop: 0.0000
+[iter 180] d_adv_loss: 0.8046  f_slf_loss: 2.5884  f_cyc_loss: 6.3639  f_adv_loss: 2.5506  temp: 1.0000  drop: 0.0000
+[iter 185] d_adv_loss: 0.8037  f_slf_loss: 2.5646  f_cyc_loss: 6.3112  f_adv_loss: 2.5545  temp: 1.0000  drop: 0.0000
+[iter 190] d_adv_loss: 0.8006  f_slf_loss: 2.5404  f_cyc_loss: 6.2589  f_adv_loss: 2.5606  temp: 1.0000  drop: 0.0000
+[iter 195] d_adv_loss: 0.7982  f_slf_loss: 2.5132  f_cyc_loss: 6.2058  f_adv_loss: 2.5667  temp: 1.0000  drop: 0.0000
+[iter 200] d_adv_loss: 0.7947  f_slf_loss: 2.4846  f_cyc_loss: 6.1496  f_adv_loss: 2.5801  temp: 1.0000  drop: 0.0000
+[iter 205] d_adv_loss: 0.6994  f_slf_loss: 2.0429  f_cyc_loss: 5.4356  f_adv_loss: 2.9462  temp: 1.0000  drop: 0.0000
+[iter 210] d_adv_loss: 0.7135  f_slf_loss: 2.0150  f_cyc_loss: 5.3062  f_adv_loss: 2.9161  temp: 1.0000  drop: 0.0000
+[iter 215] d_adv_loss: 0.7219  f_slf_loss: 1.9938  f_cyc_loss: 5.2170  f_adv_loss: 2.8806  temp: 1.0000  drop: 0.0000
+[iter 220] d_adv_loss: 0.7274  f_slf_loss: 1.9740  f_cyc_loss: 5.1609  f_adv_loss: 2.8465  temp: 1.0000  drop: 0.0000
+[iter 225] d_adv_loss: 0.7252  f_slf_loss: 1.9678  f_cyc_loss: 5.1738  f_adv_loss: 2.8400  temp: 1.0000  drop: 0.0000
+[iter 230] d_adv_loss: 0.7210  f_slf_loss: 1.9416  f_cyc_loss: 5.0974  f_adv_loss: 2.8414  temp: 1.0000  drop: 0.0000
+[iter 235] d_adv_loss: 0.7254  f_slf_loss: 1.9293  f_cyc_loss: 5.0859  f_adv_loss: 2.8357  temp: 1.0000  drop: 0.0000
+[iter 240] d_adv_loss: 0.7216  f_slf_loss: 1.9143  f_cyc_loss: 5.0507  f_adv_loss: 2.8377  temp: 1.0000  drop: 0.0000
+[iter 245] d_adv_loss: 0.7225  f_slf_loss: 1.9135  f_cyc_loss: 5.0811  f_adv_loss: 2.8412  temp: 1.0000  drop: 0.0000
+[iter 250] d_adv_loss: 0.7188  f_slf_loss: 1.9026  f_cyc_loss: 5.0740  f_adv_loss: 2.8505  temp: 1.0000  drop: 0.0000
+[iter 255] d_adv_loss: 0.7157  f_slf_loss: 1.8931  f_cyc_loss: 5.0503  f_adv_loss: 2.8508  temp: 1.0000  drop: 0.0000
+[iter 260] d_adv_loss: 0.7092  f_slf_loss: 1.8695  f_cyc_loss: 4.9970  f_adv_loss: 2.8597  temp: 1.0000  drop: 0.0000
+[iter 265] d_adv_loss: 0.7060  f_slf_loss: 1.8591  f_cyc_loss: 5.0002  f_adv_loss: 2.8616  temp: 1.0000  drop: 0.0000
+[iter 270] d_adv_loss: 0.7046  f_slf_loss: 1.8444  f_cyc_loss: 4.9678  f_adv_loss: 2.8687  temp: 1.0000  drop: 0.0000
+[iter 275] d_adv_loss: 0.7034  f_slf_loss: 1.8328  f_cyc_loss: 4.9394  f_adv_loss: 2.8698  temp: 1.0000  drop: 0.0000
+[iter 280] d_adv_loss: 0.7003  f_slf_loss: 1.8234  f_cyc_loss: 4.9258  f_adv_loss: 2.8830  temp: 1.0000  drop: 0.0000
+[iter 285] d_adv_loss: 0.6989  f_slf_loss: 1.8154  f_cyc_loss: 4.9160  f_adv_loss: 2.9004  temp: 1.0000  drop: 0.0000
+[iter 290] d_adv_loss: 0.6986  f_slf_loss: 1.8045  f_cyc_loss: 4.8902  f_adv_loss: 2.9057  temp: 1.0000  drop: 0.0000
+[iter 295] d_adv_loss: 0.6947  f_slf_loss: 1.7901  f_cyc_loss: 4.8602  f_adv_loss: 2.9114  temp: 1.0000  drop: 0.0000
+[iter 300] d_adv_loss: 0.6909  f_slf_loss: 1.7744  f_cyc_loss: 4.8200  f_adv_loss: 2.9229  temp: 1.0000  drop: 0.0000
+[iter 305] d_adv_loss: 0.6371  f_slf_loss: 1.5919  f_cyc_loss: 4.5116  f_adv_loss: 2.9971  temp: 1.0000  drop: 0.0000
+[iter 310] d_adv_loss: 0.6266  f_slf_loss: 1.5706  f_cyc_loss: 4.4757  f_adv_loss: 3.0565  temp: 1.0000  drop: 0.0000
+[iter 315] d_adv_loss: 0.6364  f_slf_loss: 1.5667  f_cyc_loss: 4.4872  f_adv_loss: 3.0452  temp: 1.0000  drop: 0.0000
+[iter 320] d_adv_loss: 0.6399  f_slf_loss: 1.5452  f_cyc_loss: 4.4055  f_adv_loss: 3.0371  temp: 1.0000  drop: 0.0000
+[iter 325] d_adv_loss: 0.6317  f_slf_loss: 1.5334  f_cyc_loss: 4.4016  f_adv_loss: 3.0599  temp: 1.0000  drop: 0.0000
+[iter 330] d_adv_loss: 0.6234  f_slf_loss: 1.5176  f_cyc_loss: 4.3485  f_adv_loss: 3.0593  temp: 1.0000  drop: 0.0000
+[iter 335] d_adv_loss: 0.6223  f_slf_loss: 1.5091  f_cyc_loss: 4.3136  f_adv_loss: 3.0771  temp: 1.0000  drop: 0.0000
+[iter 340] d_adv_loss: 0.6186  f_slf_loss: 1.4993  f_cyc_loss: 4.2865  f_adv_loss: 3.1103  temp: 1.0000  drop: 0.0000
+[iter 345] d_adv_loss: 0.6187  f_slf_loss: 1.4953  f_cyc_loss: 4.2880  f_adv_loss: 3.0983  temp: 1.0000  drop: 0.0000
+[iter 350] d_adv_loss: 0.6181  f_slf_loss: 1.4909  f_cyc_loss: 4.2830  f_adv_loss: 3.0919  temp: 1.0000  drop: 0.0000
+[iter 355] d_adv_loss: 0.6164  f_slf_loss: 1.4788  f_cyc_loss: 4.2614  f_adv_loss: 3.1083  temp: 1.0000  drop: 0.0000
+[iter 360] d_adv_loss: 0.6142  f_slf_loss: 1.4645  f_cyc_loss: 4.2270  f_adv_loss: 3.1191  temp: 1.0000  drop: 0.0000
+[iter 365] d_adv_loss: 0.6095  f_slf_loss: 1.4575  f_cyc_loss: 4.2042  f_adv_loss: 3.1328  temp: 1.0000  drop: 0.0000
+[iter 370] d_adv_loss: 0.6088  f_slf_loss: 1.4585  f_cyc_loss: 4.2144  f_adv_loss: 3.1339  temp: 1.0000  drop: 0.0000
+[iter 375] d_adv_loss: 0.6066  f_slf_loss: 1.4567  f_cyc_loss: 4.2119  f_adv_loss: 3.1404  temp: 1.0000  drop: 0.0000
+[iter 380] d_adv_loss: 0.6049  f_slf_loss: 1.4473  f_cyc_loss: 4.1843  f_adv_loss: 3.1543  temp: 1.0000  drop: 0.0000
+[iter 385] d_adv_loss: 0.6028  f_slf_loss: 1.4425  f_cyc_loss: 4.1790  f_adv_loss: 3.1651  temp: 1.0000  drop: 0.0000
+[iter 390] d_adv_loss: 0.5980  f_slf_loss: 1.4332  f_cyc_loss: 4.1557  f_adv_loss: 3.1842  temp: 1.0000  drop: 0.0000
+[iter 395] d_adv_loss: 0.5949  f_slf_loss: 1.4230  f_cyc_loss: 4.1329  f_adv_loss: 3.1974  temp: 1.0000  drop: 0.0000
+[iter 400] d_adv_loss: 0.5923  f_slf_loss: 1.4152  f_cyc_loss: 4.1158  f_adv_loss: 3.2073  temp: 1.0000  drop: 0.0000
+[iter 405] d_adv_loss: 0.5247  f_slf_loss: 1.3388  f_cyc_loss: 4.0707  f_adv_loss: 3.6149  temp: 1.0000  drop: 0.0000
+[iter 410] d_adv_loss: 0.5334  f_slf_loss: 1.2966  f_cyc_loss: 3.9602  f_adv_loss: 3.5590  temp: 1.0000  drop: 0.0000
+[iter 415] d_adv_loss: 0.5435  f_slf_loss: 1.2838  f_cyc_loss: 3.9202  f_adv_loss: 3.5500  temp: 1.0000  drop: 0.0000
+[iter 420] d_adv_loss: 0.5293  f_slf_loss: 1.2653  f_cyc_loss: 3.8597  f_adv_loss: 3.6215  temp: 1.0000  drop: 0.0000
+[iter 425] d_adv_loss: 0.5239  f_slf_loss: 1.2655  f_cyc_loss: 3.8726  f_adv_loss: 3.6130  temp: 1.0000  drop: 0.0000
+[iter 430] d_adv_loss: 0.5208  f_slf_loss: 1.2501  f_cyc_loss: 3.8256  f_adv_loss: 3.6106  temp: 1.0000  drop: 0.0000
+[iter 435] d_adv_loss: 0.5189  f_slf_loss: 1.2492  f_cyc_loss: 3.8369  f_adv_loss: 3.5905  temp: 1.0000  drop: 0.0000
+[iter 440] d_adv_loss: 0.5211  f_slf_loss: 1.2439  f_cyc_loss: 3.8370  f_adv_loss: 3.5551  temp: 1.0000  drop: 0.0000
+[iter 445] d_adv_loss: 0.5215  f_slf_loss: 1.2426  f_cyc_loss: 3.8438  f_adv_loss: 3.5539  temp: 1.0000  drop: 0.0000
+[iter 450] d_adv_loss: 0.5163  f_slf_loss: 1.2416  f_cyc_loss: 3.8687  f_adv_loss: 3.5939  temp: 1.0000  drop: 0.0000
+[iter 455] d_adv_loss: 0.5118  f_slf_loss: 1.2296  f_cyc_loss: 3.8427  f_adv_loss: 3.6198  temp: 1.0000  drop: 0.0000
+[iter 460] d_adv_loss: 0.5049  f_slf_loss: 1.2260  f_cyc_loss: 3.8423  f_adv_loss: 3.6512  temp: 1.0000  drop: 0.0000
+[iter 465] d_adv_loss: 0.5013  f_slf_loss: 1.2250  f_cyc_loss: 3.8482  f_adv_loss: 3.6709  temp: 1.0000  drop: 0.0000
+[iter 470] d_adv_loss: 0.5020  f_slf_loss: 1.2280  f_cyc_loss: 3.8552  f_adv_loss: 3.6783  temp: 1.0000  drop: 0.0000
+[iter 475] d_adv_loss: 0.5012  f_slf_loss: 1.2286  f_cyc_loss: 3.8504  f_adv_loss: 3.6846  temp: 1.0000  drop: 0.0000
+[iter 480] d_adv_loss: 0.4998  f_slf_loss: 1.2255  f_cyc_loss: 3.8479  f_adv_loss: 3.6781  temp: 1.0000  drop: 0.0000
+[iter 485] d_adv_loss: 0.4944  f_slf_loss: 1.2171  f_cyc_loss: 3.8371  f_adv_loss: 3.7188  temp: 1.0000  drop: 0.0000
+[iter 490] d_adv_loss: 0.4907  f_slf_loss: 1.2081  f_cyc_loss: 3.8165  f_adv_loss: 3.7399  temp: 1.0000  drop: 0.0000
+[iter 495] d_adv_loss: 0.4887  f_slf_loss: 1.1991  f_cyc_loss: 3.8045  f_adv_loss: 3.7595  temp: 1.0000  drop: 0.0000
+[iter 500] d_adv_loss: 0.4854  f_slf_loss: 1.1962  f_cyc_loss: 3.8027  f_adv_loss: 3.7734  temp: 1.0000  drop: 0.0000
