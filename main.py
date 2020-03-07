@@ -22,8 +22,8 @@ class Config():
     num_classes = num_styles + 1 if discriminator_method == 'Multi' else 2
     num_layers = 4
     batch_size = 64
-    lr_F = 0.0001
-    lr_D = 0.0001
+    lr_F = 0.001 # formerly 0.0001
+    lr_D = 0.001 # formerly 0.0001
     L2 = 0
     iter_D = 10
     iter_F = 5
