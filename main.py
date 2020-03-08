@@ -6,7 +6,7 @@ from train import train, auto_eval
 
 
 class Config():
-    data_path = './data/soph_2/'
+    data_path = './data/soph_3/'
     log_dir = 'runs/exp'
     save_path = './save'
     pretrained_embed_path = './embedding/'
