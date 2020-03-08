@@ -67,7 +67,7 @@ def load_dataset(config, train_pos='train.pos', train_neg='train.neg',
 
 
 if __name__ == '__main__':
-    train_iter, _, _, vocab = load_dataset('../data/soph_2/') # Changing this to be safe
+    train_iter, _, _, vocab = load_dataset('../data/soph_3/') # Changing this to be safe
     print(len(vocab))
     for batch in train_iter:
         text = tensor2text(vocab, batch.text)
