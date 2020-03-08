@@ -6,7 +6,7 @@ from train import train, auto_eval
 
 
 class Config():
-    data_path = './data/soph_3/'
+    data_path = './data/soph_2/'
     log_dir = 'runs/exp'
     save_path = './save'
     pretrained_embed_path = './embedding/'
@@ -14,7 +14,7 @@ class Config():
     discriminator_method = 'Multi' # 'Multi' or 'Cond'
     load_pretrained_embed = False
     min_freq = 3
-    max_length = 30
+    max_length = 35
     embed_size = 256
     d_model = 256
     h = 4
