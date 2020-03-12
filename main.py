@@ -6,7 +6,7 @@ from train import train, auto_eval
 
 
 class Config():
-    data_path = './data/soph_3/'
+    data_path = './data/soph_tagged/'
     log_dir = 'runs/exp'
     save_path = './save'
     pretrained_embed_path = './embedding/'
@@ -20,7 +20,7 @@ class Config():
     h = 4
     num_styles = 2
     num_classes = num_styles + 1 if discriminator_method == 'Multi' else 2
-    num_layers = 4
+    num_layers = 6 # original setting: 4
     batch_size = 64
     lr_F = 0.0001 # original setting: 0.0001
     lr_D = 0.0001 # original setting: 0.0001
