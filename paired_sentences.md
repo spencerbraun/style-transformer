@@ -1,3 +1,31 @@
+# Same sentences across multiple corpora
+original: it is the people around you causing the offensive news.
+soph_1: (80) it was brought mr. peggotty, you trademark brought interest news.
+soph_2: NA
+soph_3: (37) it is the inwardly of causing the which capacities theology capacities government is means to of terms of terms of knowledge theology capacities of
+
+---
+
+og: libraries are a place for learning and work.
+soph_1: (93) may be a place for much, and suppose?
+soph_2: (209) charity two a place for tied and work. the chief of the chief of the
+soph_3: NA
+
+---
+
+og: in conclusion all these elements of the desert affect the cyclist in some way.
+soph_1: NA
+soph_2: (388) in conclusion all these elements of the called portrait the savage in some way. the in the
+soph_3: (202) in too all these elements of the hastily burnejones the falls in some way which are the same of knowledge the conditions of knowledge the of
+
+---
+
+og: the features of the setting affect the cyclist.
+soph_1: (250) mrs. gas of brought little dogs brought judgment
+soph_2: (1022) the composing of the habit portrait the poet of the chief the whole law of the of the of
+soph_3: NA
+
+
 # soph_1
 
 ### Actually readable
@@ -34,3 +62,7 @@ t: there are birds answers to this question and birds mr. bounderby, old youve t
 ### Sounds good besides the ending of the sentence spamming length
 b: many books have posed a great educational source for many years.
 t: noble yosemite a great educational source for many years. the rules of the
+
+### Interesting vocab changes
+b: the features of the setting in do not exceed posted speed limit affect the cyclist.
+t: the composing of the habit in joy not question: marvellous question: portrait the poet of the rules of the of the joy of other. of
