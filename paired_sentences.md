@@ -11,8 +11,8 @@ b: another example of the setting is when the terrain changed .
 t: another tree of the wild is when the follows changed .
 
 ### Vocab change; maybe more science/philosophy in soph?
-b: the hypothesis he has set is love and kindness .
-t: the mood he has set is love and kindness .
+b: the mood he has set is love and kindness .
+t: the hypothesis he has set is love and kindness .
 
 ### Interesting word substitution here
 b: i suddenly had a feeling of mixed emotions racing through <caps> body .
