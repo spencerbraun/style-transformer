@@ -34,6 +34,10 @@ t: fire and physics made our friendship so much better and gave me amazing memor
 b: it has a playful tone with a warm and loving mood .
 t: it has a playful gather with a warm and loving hypothesis .
 
+### Technology windows or something else? Also added contraction
+b: now you can use this technology as a tool not a game .
+t: now you 'll use this windows as a tool not a game .
+
 
 # Same sentences across multiple corpora
 original: it is the people around you causing the offensive news.
