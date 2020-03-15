@@ -1,3 +1,40 @@
+# soph_3 tokenized, with-punctuation deep network interesting sentences
+b: original before transfer
+t: transferred sentence
+
+### This one didn't have punctuation originally, but picking up on "?"
+b: then what we will be able to read or listen too
+t: then what we will be able to rule or listen too ?
+
+### Trying to pick up on synonyms potentially
+b: another example of the setting is when the terrain changed .
+t: another tree of the wild is when the follows changed .
+
+### Vocab change; maybe more science/philosophy in soph?
+b: the hypothesis he has set is love and kindness .
+t: the mood he has set is love and kindness .
+
+### Interesting word substitution here
+b: i suddenly had a feeling of mixed emotions racing through <caps> body .
+t: i suddenly had a feeling of mixed emotions chickens felt through body .
+
+### More vocab substitution, output sounds funny
+b: this is the moods created by the author in the memoir .
+t: this is the magic attention by the power in the gentle .
+
+### It appears to be substituting emotion for science
+b: all relationships need a little laughter to lighten the mood once in awhile .
+t: all relationships blind a little physics to lighten the hypothesis once in awhile .
+
+### Appears to be learning consistent vocab substitutions
+b: jokes and laughter made our friendship so much better and gave me amazing memories that i might possibly have for the rest of my life .
+t: fire and physics made our friendship so much better and gave me amazing memories that , might possibly have for the rest of my life .
+
+### Another one
+b: it has a playful tone with a warm and loving mood .
+t: it has a playful gather with a warm and loving hypothesis .
+
+
 # Same sentences across multiple corpora
 original: it is the people around you causing the offensive news.
 soph_1: (80) it was brought mr. peggotty, you trademark brought interest news.
@@ -24,7 +61,6 @@ og: the features of the setting affect the cyclist.
 soph_1: (250) mrs. gas of brought little dogs brought judgment
 soph_2: (1022) the composing of the habit portrait the poet of the chief the whole law of the of the of
 soph_3: NA
-
 
 # soph_1
 
